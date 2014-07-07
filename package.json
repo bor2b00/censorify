@@ -1,0 +1,19 @@
+{
+  "name": "censorify",
+  "version": "0.1.2",
+  "description": "censorify",
+  "main": "censortext",
+  "author": {
+    "name": "Jim Whisenhunt",
+    "email": "whisenhunt.jim.dev@gmail.com"
+  },
+  "repository": {
+      "type": "git",
+      "url": "http://github.com/bor2b00/censorify"
+  },
+  "keywords": ["censor", "words"],
+  "dependencies": {},
+  "engines": {
+      "node": "*"
+  }
+ }
